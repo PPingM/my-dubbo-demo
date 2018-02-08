@@ -1,4 +1,4 @@
-# dubbo-demo
+# dubbo-demo：基于 Dubbo 练习的 Demo
 
 # 1. 运行 dubbo-demo-web-users 
 >  ### 运行方式：
